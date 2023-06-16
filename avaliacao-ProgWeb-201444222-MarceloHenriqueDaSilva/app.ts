@@ -1,5 +1,5 @@
 import express from 'express'
-import routes from './routes'
+import routes from './src/routes'
 import mongoose from 'mongoose'
 
 class App {
